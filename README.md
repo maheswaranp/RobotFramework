@@ -16,4 +16,5 @@ Prerequisite:
     
     
 To run the scripts:
-robot --variable browser:ff --variable url:http://newtours.demoaut.com/mercurysignon.php ./TestCases/LoginTest.robot 
+
+   robot --variable browser:ff --variable url:http://newtours.demoaut.com/mercurysignon.php ./TestCases/LoginTest.robot 
